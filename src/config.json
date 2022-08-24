@@ -1,7 +1,7 @@
 {
   "buildNumber": "v7.0.0",
   "sliderMode": "slider",
-  "slideTimeout": 8000,
+  "slideTimeout": 9000,
   "googleSlides": {
     "url":
       "https://docs.google.com/presentation/d/e/2PACX-1vSSB03g_s9gl75eiKZJPtfa2czRlBorDVFpYFbMOPqGEGD-06jxJP3wRRfNzeWCkGcKmE81U1OtvTkZ/embed?start=true&loop=false&delayms=8000",
